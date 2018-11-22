@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'pycascades-welcome-wagon-2019'
-copyright = '2018, Nick Denny'
-author = 'Nick Denny'
+copyright = '2018, PyCascades'
+author = 'PyCascades'
 
 # The short X.Y version
 version = ''
